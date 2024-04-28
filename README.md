@@ -1,7 +1,7 @@
-# creating-a-backdoor-with-SET
+# creating a backdoor with SET
 creating a backdoor with SET - Ethical Hacking Techniques course
 
-# AIM:
+## AIM:
 To Create a backdoor with Social Engineering Toolkit (SET)
 
 ## DESIGN STEPS:
@@ -56,7 +56,8 @@ In windows IE, on giving the url http://10.0.2.15, the fake Google page is displ
 
 SET logs the information regarding the Google credentials: 
 
-![image](https://github.com/Yamunaasri/creating-a-backdoor-with-SET/assets/115707860/2d9872e5-1ad5-461b-8977-8ceef46349d6)
+![Screenshot_2024-04-28_12_26_16](https://github.com/JananiSoundararajan/creating-a-backdoor-with-SET/assets/119477549/e822fdf9-0c18-488f-b36a-361a5a8cbab3)
+
 
 SET logs the information in the xml file under /root/.set directory:
 
