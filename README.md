@@ -17,7 +17,8 @@ Open terminal and try execute some kali linux commands.
 ## EXECUTION STEPS AND ITS OUTPUT:
 Social Engineering attacks are the various cons used by the hackers to trick people into providing sensitive data to the attackers. The command sudo setoolkit in the prompt gives menu with set prompt:
 
-![image](https://github.com/Yamunaasri/creating-a-backdoor-with-SET/assets/115707860/332feb02-424c-49e4-bc65-688517dcc8d1)
+![Screenshot_2024-04-28_11_52_37](https://github.com/JananiSoundararajan/creating-a-backdoor-with-SET/assets/119477549/e67abd28-edff-40a1-973f-50e402357549)
+
 
 The command sudo setoolkit in the prompt gives menu with set prompt. Select menu1 for Social Engineering Attacks:
 
@@ -35,19 +36,23 @@ The Credential Harvester Attack Method displays the following menu. In this menu
 
 It shows the following screen in which the ip address of the attacker need to be given which is the default value:
 
-![image](https://github.com/Yamunaasri/creating-a-backdoor-with-SET/assets/115707860/45665630-1fb6-4717-ad19-505bf3c53feb)
+![Screenshot_2024-04-28_12_02_27](https://github.com/JananiSoundararajan/creating-a-backdoor-with-SET/assets/119477549/aae80965-20fa-46fa-878d-f0f912e8dc2e)
+
 
 It shows the following screen in which the option Google can be selected: 
 
-![image](https://github.com/Yamunaasri/creating-a-backdoor-with-SET/assets/115707860/9bc40cf5-8e37-4278-be60-ff4fe62ec819)
+![Screenshot_2024-04-28_12_08_44](https://github.com/JananiSoundararajan/creating-a-backdoor-with-SET/assets/119477549/77bf3ede-6f37-4abf-9e5c-5a0a20f71a38)
+
 
 SET starts my Kali Linux Webserver on port 80, with the fake Google account login page. The setup is done: 
 
-![image](https://github.com/Yamunaasri/creating-a-backdoor-with-SET/assets/115707860/7e0a6295-2e6f-4464-bc54-b96776222eba)
+![Screenshot_2024-04-28_12_14_00](https://github.com/JananiSoundararajan/creating-a-backdoor-with-SET/assets/119477549/2b41ad0b-3065-490f-bc59-d5a641acb56f)
 
-In windows IE, on giving the url http://192.168.1.2, the fake Google page is displayed. The victim can enter the username and password 
 
-![image](https://github.com/Yamunaasri/creating-a-backdoor-with-SET/assets/115707860/ee719ce0-cbff-4a7d-a265-9fa29ed70ba7)
+In windows IE, on giving the url http://10.0.2.15, the fake Google page is displayed. The victim can enter the username and password.
+
+![Screenshot_2024-04-28_12_19_43](https://github.com/JananiSoundararajan/creating-a-backdoor-with-SET/assets/119477549/136422da-1e97-471c-9ff9-273da837ac37)
+
 
 SET logs the information regarding the Google credentials: 
 
