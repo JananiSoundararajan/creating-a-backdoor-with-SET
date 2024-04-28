@@ -1,4 +1,4 @@
-# creating a backdoor with SET
+# Creating a backdoor with SET
 
 ## AIM:
 To Create a backdoor with Social Engineering Toolkit (SET)
