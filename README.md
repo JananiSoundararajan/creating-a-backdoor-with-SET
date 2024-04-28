@@ -1,5 +1,4 @@
 # creating a backdoor with SET
-creating a backdoor with SET - Ethical Hacking Techniques course
 
 ## AIM:
 To Create a backdoor with Social Engineering Toolkit (SET)
