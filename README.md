@@ -1,7 +1,7 @@
 # Creating a backdoor with SET
 
 ## AIM:
-To Create a backdoor with Social Engineering Toolkit (SET)
+To create a backdoor with Social Engineering Toolkit (SET).
 
 ## DESIGN STEPS:
 ### Step 1:
@@ -63,5 +63,5 @@ SET logs the information in the xml file under /root/.set directory:
 ![Screenshot 2024-04-24 091439](https://github.com/Yamunaasri/creating-a-backdoor-with-SET/assets/115707860/d5cb5cc7-d79a-4a16-a3e9-2cf6bf9a03c5)
 
 ## RESULT:
-The Social Engineering Toolkit (SET) is used to create backdoor is  examined successfully
+The Social Engineering Toolkit (SET) is used to create backdoor is  examined successfully.
 
